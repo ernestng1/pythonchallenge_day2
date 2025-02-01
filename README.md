@@ -1,5 +1,5 @@
 <h1>Day 2 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 2 challenge, I created a simple Tip Calcultor project that collects input on your food bill, amount of tip that you would like to give and number of people who are eating the meal. The code then outputs the amount that each person has to pay! This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<p>For the Day 2 challenge, I created a simple Tip Calculator project that collects input on your food bill, amount of tip that you would like to give and number of people who are eating the meal. The code then outputs the amount that each person has to pay! This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>arithmetic operation</li>
   <li>data types</li>
